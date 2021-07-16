@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Mikołaj Stryczek"
+	"author": "Mikołaj Stryczek",
+	"description": "A project created for FreeCodeCamp purposes"
 }
